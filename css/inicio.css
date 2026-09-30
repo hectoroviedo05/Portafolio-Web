@@ -9,17 +9,17 @@
 }
 
 :root {
-    --black: #111111;
+    --black: #121820;
     --white: #ffffff;
 
-    /* Verde Panda */
-    --green: #1f5f3b;
-    --green-dark: #16452b;
-    --green-light: #eaf2ed;
+    /* Verde Panda Code */
+    --green: #057a4d;
+    --green-dark: #045c3a;
+    --green-light: #e6f3ec;
 
     --gray: #666666;
-    --light: #f6f8f6;
-    --border: #e1e7e2;
+    --light: #f6f8f7;
+    --border: #e1e8e4;
 }
 
 html {
@@ -347,7 +347,7 @@ nav a.active::after {
 }
 
 .btn-light:hover {
-    background: #dcebe2;
+    background: #d3ebdf;
 }
 
 
@@ -501,7 +501,7 @@ nav a.active::after {
 .mini-card:hover {
     transform: translateY(-4px);
 
-    border-color: #bfd8c8;
+    border-color: #b7dcc8;
 
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.05);
 }
@@ -599,7 +599,7 @@ nav a.active::after {
 .service-card:hover {
     transform: translateY(-4px);
 
-    border-color: #bfd8c8;
+    border-color: #b7dcc8;
 
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.07);
 }
@@ -650,7 +650,7 @@ nav a.active::after {
 }
 
 .notice {
-    border: 1px solid #c9ddd0;
+    border: 1px solid #bfe0cf;
 
     border-radius: 12px;
 
@@ -694,7 +694,7 @@ nav a.active::after {
 }
 
 .notice p {
-    color: #4c6659;
+    color: #3f6653;
 
     font-size: 14px;
 }
@@ -728,7 +728,7 @@ nav a.active::after {
 
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
 
-    border-color: #bfd8c8;
+    border-color: #b7dcc8;
 }
 
 .demo-image {
@@ -850,7 +850,7 @@ nav a.active::after {
 .contact-card:hover {
     transform: translateY(-4px);
 
-    border-color: #bfd8c8;
+    border-color: #b7dcc8;
 
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.07);
 }
