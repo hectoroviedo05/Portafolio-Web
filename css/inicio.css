@@ -62,7 +62,7 @@ button {
 }
 
 .nav-content {
-    height: 85px;
+    height: 115px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -82,7 +82,7 @@ button {
 }
 
 .logo img {
-    height: 68px;
+    height: 100px;
     width: auto;
     object-fit: contain;
     display: block;
@@ -1095,7 +1095,11 @@ footer p {
     /* NAVBAR */
 
     .nav-content {
-        height: 80px;
+        height: 100px;
+    }
+
+    .logo img {
+        height: 84px;
     }
 
 
@@ -1113,7 +1117,7 @@ footer p {
 
         position: absolute;
 
-        top: 80px;
+        top: 100px;
 
         left: 0;
 
@@ -1224,7 +1228,7 @@ footer p {
     }
 
     .logo img {
-        height: 54px;
+        height: 72px;
 
         width: auto;
     }
